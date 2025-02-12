@@ -1,0 +1,32 @@
+.text-center {
+    display: block;
+    text-align: center;
+}
+
+.bg-red {
+    background: red;
+    color: white;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
